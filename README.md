@@ -2,7 +2,7 @@
 
 A simple Alpine container, with curl installed. Nothing fancy.
 
-Docker Hub: https://hub.docker.com/repository/docker/grrywlsn/alpine-coreutils-curl
+Docker Hub: https://hub.docker.com/r/teciee/alpine-coreutils-curl
 
 # more
 
